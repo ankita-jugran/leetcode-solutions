@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0136-single-number) |
 | [0213-house-robber-ii](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0213-house-robber-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
