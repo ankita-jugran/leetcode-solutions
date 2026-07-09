@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0806-number-of-lines-to-write-string](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 ## Hash Table
 |  |
@@ -41,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 ## String
 |  |
 | ------- |
