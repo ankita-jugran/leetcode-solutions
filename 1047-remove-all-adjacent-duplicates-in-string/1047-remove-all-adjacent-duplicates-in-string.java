@@ -14,10 +14,10 @@ class Solution {
 
         StringBuilder ans = new StringBuilder();
 
-        while( stack.isEmpty() != true ){
-            ans.append( stack.pop() );
-
-        }     
-        return ans.reverse().toString();
+        for (char ch : stack) {
+            ans.append(ch);
+        }
+            
+        return ans.toString();
     }
 }
