@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0806-number-of-lines-to-write-string](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,4 +123,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
