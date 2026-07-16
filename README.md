@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0443-string-compression) |
 | [0806-number-of-lines-to-write-string](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## String Matching
 |  |
 | ------- |
@@ -124,8 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Simulation
+|  |
+| ------- |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
