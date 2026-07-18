@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -136,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
