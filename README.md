@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2404-most-frequent-even-element](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/ankita-jugran/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ankita-jugran/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2404-most-frequent-even-element](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/ankita-jugran/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2404-most-frequent-even-element](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/ankita-jugran/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sliding Window
 |  |
 | ------- |
