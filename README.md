@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-design-front-middle-back-queue](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2404-most-frequent-even-element](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ankita-jugran/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2404-most-frequent-even-element](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/ankita-jugran/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Math
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ankita-jugran/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
