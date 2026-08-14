@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0622-design-circular-queue](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0806-number-of-lines-to-write-string](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [0997-find-the-town-judge](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1670-design-front-middle-back-queue](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1670-design-front-middle-back-queue) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0997-find-the-town-judge](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
