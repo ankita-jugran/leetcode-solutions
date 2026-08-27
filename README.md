@@ -254,12 +254,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## DP on Trees
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Binary Search Tree
 |  |
@@ -280,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 <!---LeetCode Topics End-->
