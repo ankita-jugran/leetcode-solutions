@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0997-find-the-town-judge](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2404-most-frequent-even-element](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0997-find-the-town-judge](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Binary Search Tree
@@ -287,4 +292,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
