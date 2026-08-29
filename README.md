@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1670-design-front-middle-back-queue](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2404-most-frequent-even-element](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0231-power-of-two) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ankita-jugran/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2359-find-closest-node-to-given-two-nodes) |
@@ -272,12 +277,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Graph Theory
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Binary Search Tree
@@ -296,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Memoization
 |  |
 | ------- |
@@ -304,4 +312,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Combinatorics
+|  |
+| ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 <!---LeetCode Topics End-->
