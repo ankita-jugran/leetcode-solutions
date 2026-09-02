@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Sorting
