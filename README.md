@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0622-design-circular-queue](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0806-number-of-lines-to-write-string](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
+| [0860-lemonade-change](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0997-find-the-town-judge](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0860-lemonade-change](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## String
 |  |
