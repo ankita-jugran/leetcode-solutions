@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0622-design-circular-queue](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0806-number-of-lines-to-write-string](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0860-lemonade-change](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -340,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
