@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0622-design-circular-queue](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0806-number-of-lines-to-write-string](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0806-number-of-lines-to-write-string) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0860-lemonade-change](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
