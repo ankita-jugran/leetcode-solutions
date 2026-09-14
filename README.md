@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Directed Acyclic Graph
 |  |
