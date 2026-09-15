@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0338-counting-bits) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Bit Manipulation
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
