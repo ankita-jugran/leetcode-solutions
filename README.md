@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0338-counting-bits) |
+| [1025-divisor-game](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 ## Bit Manipulation
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0231-power-of-two) |
+| [1025-divisor-game](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1916-count-ways-to-build-rooms-in-an-ant-colony](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1916-count-ways-to-build-rooms-in-an-ant-colony) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/ankita-jugran/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -357,4 +359,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0561-array-partition) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
