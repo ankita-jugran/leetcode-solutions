@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0213-house-robber-ii](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0506-relative-ranks) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0338-counting-bits) |
 | [1025-divisor-game](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0322-coin-change) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ankita-jugran/leetcode-solutions/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Depth-First Search
@@ -377,4 +380,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1025-divisor-game) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
