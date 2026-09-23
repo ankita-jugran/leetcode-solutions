@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0137-single-number-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0450-delete-node-in-a-bst](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ankita-jugran/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
